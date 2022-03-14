@@ -1,14 +1,15 @@
 {
-  "name": "docker_web_app",
+  "name": "dnd-web-app",
   "version": "1.0.0",
-  "description": "Node.js on Docker",
-  "author": "First Last <first.last@example.com>",
+  "description": "DnD web app built in Angular",
+  "author": "Tommy McGahee <tommy.mcgahee@egmail.com>",
   "main": "server.js",
   "private": true,
   "scripts": {
-    "start": "node server.js"
+    "start": ""
   },
-  "dependencies": {
-    "express": "^4.16.1"
+  "dependencies": {},
+  "devDependencies": {
+    "@angular/cli": "^13.2.6"
   }
 }
