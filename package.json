@@ -6,7 +6,7 @@
   "main": "server.js",
   "private": true,
   "scripts": {
-    "start": ""
+    "start": "cd /workspaces/dnd/app && npx ng serve --open"
   },
   "dependencies": {},
   "devDependencies": {
