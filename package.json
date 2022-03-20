@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "DnD web app built in Angular",
   "author": "Tommy McGahee <tommy.mcgahee@egmail.com>",
-  "main": "server.js",
   "private": true,
   "scripts": {
     "start": "cd /workspaces/dnd/app && npx ng serve --open"
